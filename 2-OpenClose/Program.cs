@@ -2,7 +2,8 @@
 
 ShowSalaryMonthly(new List<Employee>() {
     new EmployeeFullTime("Pepito Pérez", 160),
-    new EmployeePartTime("Manuel Lopera", 180)
+    new EmployeePartTime("Manuel Lopera", 180),
+    new EmployeeFullTime("Diego Naranjo", 100)
 });
 
 
